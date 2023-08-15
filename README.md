@@ -2,8 +2,6 @@
 
 - 🌱 I'm currently learning many things to figure out what's the thing I should focus on.
 - 😤 I used to practice cp long time ago, and I realized I didn't have enough effort for this.
-- ⚡ Fun fact: I like _hnga1110_.
-
 <!--
 **hnc203204/hnc203204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
