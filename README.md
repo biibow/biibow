@@ -5,6 +5,6 @@
 
 ### Little things about me
 
-- Yah, I'm a AI student.
+- Yah, I'm an AI student.
 - Love basketball 🏀.
 - Goal: I wanna be an AI engineer.
