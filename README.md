@@ -1,7 +1,7 @@
 ### Hi dude 👋
 
-- I'm Nguyen Cong Huynh. 😁
-- A student studying in UET. 🤣
+- I'm Nguyen Cong Huynh.
+- A 3rd student studying in UET.
 
 ### Little things about me
 
